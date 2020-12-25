@@ -1,7 +1,7 @@
 # Site
 name: "Geeks Space"
 title: "Geeks Space"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "A learning space for geeks."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
